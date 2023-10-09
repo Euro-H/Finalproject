@@ -11,12 +11,12 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 &nbsp;
 ## Headers
 ---
-#Header one
-##Header two
-###Header three
-####Header four
-#####Header five
-######Header six
+# Header one
+## Header two
+### Header three
+#### Header four
+##### Header five
+###### Header six
 
 #### Colombian Symbolism in _One Hundred Years of Solitude_
 
