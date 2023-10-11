@@ -1,4 +1,4 @@
-## <Eero Hyppänen> Wed-tehtävä
+## Eero Hyppänen Wed-tehtävä
 ---
 ## Italics and bold
 
@@ -12,11 +12,17 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 ## Headers
 ---
 # Header one
+ 
 ## Header two
-### Header three
+ 
+### Header three 
+ 
 #### Header four
+  
 ##### Header five
+ 
 ###### Header six
+ 
 
 #### Colombian Symbolism in _One Hundred Years of Solitude_
 
